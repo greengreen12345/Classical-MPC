@@ -1,0 +1,8 @@
+Cython==3.0.0a10
+gym==0.22.0
+gym-notices==0.0.8
+numpy
+typing-extensions==4.8.0
+casadi==3.6.4
+mujoco==2.3.7
+mujoco-py==2.1.2.14
